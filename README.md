@@ -1,4 +1,4 @@
-# Clustering Final Project for Graduate Level Data Mining Course 
+# Clustering: Final Project for Graduate Level Data Mining Course 
 
 
 The dataset contains 1000 observations and 784 variables. We applied PCA for variable reduction. The elbow for the PCA cumulative variance plot occurs at about 400 PC (see figure 2) – about 50% reduction in variables. Thus, all our analyses are based on the first 400 PCs.
